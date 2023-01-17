@@ -3,8 +3,20 @@
 <a href="https://github.com/henry-hub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/henry-hub" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+<a href="https://gitee.com/henry-hub" target="_blank">
+<img src=https://img.shields.io/badge/gitee-C71D23.svg?&style=for-the-badge&logo=gitee&logoColor=white alt=gitee style="margin-bottom: 5px;" />
+</a>
+<a target="_blank" href="https://ihub.pub">
+<img src="https://img.shields.io/badge/Blog-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white" alt="IHub" style="margin-bottom: 5px;"/>
+</a>
+<a target="_blank" href="https://weibo.com/ihubpub">
+<img src="https://img.shields.io/badge/Weibo-E6162D.svg?style=for-the-badge&logo=Sina+Weibo&logoColor=white" alt="Sina Weibo" style="margin-bottom: 5px;"/>
+</a>
+<a target="_blank" href="https://www.zhihu.com/people/ihub">
+<img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white" alt="Zhihu" style="margin-bottom: 5px;"/>
+</a>
+<a target="_blank" href="https://blog.csdn.net/u010706566">
+<img src="https://img.shields.io/badge/CSDN-E6162D.svg?style=for-the-badge&logoColor=white" alt="CSDN"/>
 </a>
 <a href="https://stackoverflow.com/users/11459940" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -12,10 +24,7 @@
 <a href="https://twitter.com/henryli93" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/henryli93" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/henryli93" target="_blank">
+<a href="https://linkedin.com/in/ihubpub" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -85,7 +94,7 @@ I’m a backend developer, I specialize in building robust backends that do all 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" /> -->
 
 </td><td valign="top" width="50%">
@@ -94,4 +103,18 @@ I’m a backend developer, I specialize in building robust backends that do all 
 
 </td></tr></table>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=henry-hub&&style=flat-square)  
+<a href="">
+<img src="https://komarev.com/ghpvc/?username=henry-hub&&style=flat-square" alt="Profile views counter" />
+</a>
+<a href="https://github.com/ihub-pub/plugins" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/plugins?label=IHub+Plugins&style=flat-square" alt="IHub Plugins" />
+</a>
+<a href="https://github.com/ihub-pub/libs" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/libs?label=IHub+Libs&style=flat-square" alt="IHub Libs" />
+</a>
+<a href="https://github.com/ihub-pub/keel" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/keel?label=IHub+Keel&style=flat-square" alt="IHub Keel" />
+</a>
+<a href="https://github.com/ihub-pub/apps" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/apps?label=IHub+Apps&style=flat-square" alt="IHub Apps" />
+</a>
