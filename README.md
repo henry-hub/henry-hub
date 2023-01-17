@@ -91,7 +91,7 @@ I’m a backend developer, I specialize in building robust backends that do all 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" /> -->
 
 </td><td valign="top" width="50%">
