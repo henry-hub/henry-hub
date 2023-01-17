@@ -82,16 +82,6 @@ I’m a backend developer, I specialize in building robust backends that do all 
 </div>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" /> -->
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-hub&hide_border=true&layout=compact" align="right" style="width: 100%" />
-
-</td></tr></table>  
 
 <a href="">
 <img src="https://komarev.com/ghpvc/?username=henry-hub&&style=flat-square" alt="Profile views counter" />
@@ -108,3 +98,14 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <a href="https://github.com/ihub-pub/apps" target="_blank">
 <img src="https://img.shields.io/github/stars/ihub-pub/apps?label=IHub+Apps&style=flat-square" alt="IHub Apps" />
 </a>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" /> -->
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-hub&hide_border=true&layout=compact" align="right" style="width: 100%" />
+
+</td></tr></table>  
