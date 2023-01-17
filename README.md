@@ -6,9 +6,6 @@
 <a href="https://gitee.com/henry-hub" target="_blank">
 <img src=https://img.shields.io/badge/gitee-C71D23.svg?&style=for-the-badge&logo=gitee&logoColor=white alt=gitee style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://ihub.pub">
-<img src="https://img.shields.io/badge/Blog-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white" alt="IHub" style="margin-bottom: 5px;"/>
-</a>
 <a target="_blank" href="https://weibo.com/ihubpub">
 <img src="https://img.shields.io/badge/Weibo-E6162D.svg?style=for-the-badge&logo=Sina+Weibo&logoColor=white" alt="Sina Weibo" style="margin-bottom: 5px;"/>
 </a>
