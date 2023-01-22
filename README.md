@@ -29,25 +29,50 @@
 I’m a backend developer, I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="65%">
 
 - 🔭 I’m currently working on [GraalVM](https://www.graalvm.org)  
   
-
 - 🌱 I’m currently learning Docker and Kubernetes  
   
-
 - ❓ Ask me about anything related to Gradle and plugins  
   
+- ⚡ Fun fact: keep coding
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
+</td><td valign="top">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+</td></tr></table>  
+
+## Github Stats  
+
+<a href="">
+<img src="https://komarev.com/ghpvc/?username=henry-hub&&style=flat-square" alt="Profile views counter" />
+</a>
+<a href="https://github.com/ihub-pub/plugins" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/plugins?label=IHub+Plugins&style=flat-square" alt="IHub Plugins" />
+</a>
+<a href="https://github.com/ihub-pub/libs" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/libs?label=IHub+Libs&style=flat-square" alt="IHub Libs" />
+</a>
+<a href="https://github.com/ihub-pub/keel" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/keel?label=IHub+Keel&style=flat-square" alt="IHub Keel" />
+</a>
+<a href="https://github.com/ihub-pub/apps" target="_blank">
+<img src="https://img.shields.io/github/stars/ihub-pub/apps?label=IHub+Apps&style=flat-square" alt="IHub Apps" />
+</a>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" /> -->
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-hub&hide_border=true&layout=compact" align="right" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -80,32 +105,3 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
 </div>  
-
-## Github Stats  
-
-<a href="">
-<img src="https://komarev.com/ghpvc/?username=henry-hub&&style=flat-square" alt="Profile views counter" />
-</a>
-<a href="https://github.com/ihub-pub/plugins" target="_blank">
-<img src="https://img.shields.io/github/stars/ihub-pub/plugins?label=IHub+Plugins&style=flat-square" alt="IHub Plugins" />
-</a>
-<a href="https://github.com/ihub-pub/libs" target="_blank">
-<img src="https://img.shields.io/github/stars/ihub-pub/libs?label=IHub+Libs&style=flat-square" alt="IHub Libs" />
-</a>
-<a href="https://github.com/ihub-pub/keel" target="_blank">
-<img src="https://img.shields.io/github/stars/ihub-pub/keel?label=IHub+Keel&style=flat-square" alt="IHub Keel" />
-</a>
-<a href="https://github.com/ihub-pub/apps" target="_blank">
-<img src="https://img.shields.io/github/stars/ihub-pub/apps?label=IHub+Apps&style=flat-square" alt="IHub Apps" />
-</a>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&hide=stars" align="left" style="width: 100%" /> -->
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-hub&hide_border=true&layout=compact" align="right" style="width: 100%" />
-
-</td></tr></table>  
