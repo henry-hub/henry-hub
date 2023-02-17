@@ -64,7 +64,12 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <a href="https://github.com/ihub-pub/apps" target="_blank">
 <img src="https://img.shields.io/github/stars/ihub-pub/apps?label=IHub+Apps&style=flat-square" alt="IHub Apps" />
 </a>
-
+<!-- <a href="https://www.buymeacoffee.com/henryhub" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"/>
+</a> -->
+<a href="https://liberapay.com/henry-hub" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay"/>
+</a>
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -105,3 +110,6 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
 </div>  
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
