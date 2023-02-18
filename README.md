@@ -67,9 +67,9 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <!-- <a href="https://www.buymeacoffee.com/henryhub" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"/>
 </a> -->
-<a href="https://liberapay.com/henry-hub" target="_blank" style="display: inline-block;">
+<!-- <a href="https://liberapay.com/henry-hub" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay"/>
-</a>
+</a> -->
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=henry-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
