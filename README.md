@@ -6,8 +6,11 @@
 <a href="https://gitee.com/henry-hub" target="_blank">
 <img src=https://img.shields.io/badge/gitee-C71D23.svg?&style=for-the-badge&logo=gitee&logoColor=white alt=gitee style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://weibo.com/ihubpub">
+<!-- <a target="_blank" href="https://weibo.com/ihubpub">
 <img src="https://img.shields.io/badge/Weibo-E6162D.svg?style=for-the-badge&logo=Sina+Weibo&logoColor=white" alt="Sina Weibo" style="margin-bottom: 5px;"/>
+</a> -->
+<a target="_blank" href="https://leetcode.cn/u/henry-hub">
+<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;"/>
 </a>
 <a target="_blank" href="https://www.zhihu.com/people/ihub">
 <img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white" alt="Zhihu" style="margin-bottom: 5px;"/>
