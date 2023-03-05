@@ -50,12 +50,6 @@ I’m a backend developer, I specialize in building robust backends that do all 
 
 </td></tr></table>  
 
-> leetcode commits in the last year
-
-<a href="https://leetcode.cn/u/henry-hub" target="_blank">
-<img src=https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/henry-hub.svg?type=past-year alt=LeetCode />
-</a>
-
 ## Github Stats  
 
 <a href="">
@@ -89,6 +83,12 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-hub&hide_border=true&layout=compact" align="right" style="width: 100%" />
 
 </td></tr></table>  
+
+> leetcode commits in the last year
+
+<a href="https://leetcode.cn/u/henry-hub" target="_blank">
+<img src=https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/henry-hub.svg?type=past-year alt=LeetCode />
+</a>
 
 ## Languages and Tools  
 <div align="center">  
