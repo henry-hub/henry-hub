@@ -32,7 +32,7 @@
 I’m a backend developer, I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
 
 ## Rapidfire  
-<table><tr><td valign="top" width="65%">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [GraalVM](https://www.graalvm.org)  
   
@@ -45,10 +45,18 @@ I’m a backend developer, I specialize in building robust backends that do all 
 </td><td valign="top">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=henry-hub" align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
+
+<!--   GitHub stats graph -->
+## GitHub Activity Graph:
+[![Henry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=henry-hub&theme=github-compact)](https://github.com/henry-hub)
+
+![](https://github.liheng.website/profile-3d-contrib/profile-green-animate.svg)
+
+![](https://github.liheng.website/github-contribution-grid-snake.svg)
 
 ## Github Stats  
 
@@ -84,11 +92,11 @@ I’m a backend developer, I specialize in building robust backends that do all 
 
 </td></tr></table>  
 
-> leetcode commits in the last year
+<!-- > leetcode commits in the last year
 
 <a href="https://leetcode.cn/u/henry-hub" target="_blank">
 <img src=https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/henry-hub.svg?type=past-year alt=LeetCode />
-</a>
+</a> -->
 
 ## Languages and Tools  
 <div align="center">  
