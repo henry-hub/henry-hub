@@ -1,4 +1,11 @@
-## Hey 👋, I'm Henry!  
+<meta name="description" content="Hey 👋, I'm Henry! Code porters for ihub-pub">
+<meta name="keywords" content="Backend Developer, IHub, Python, C#, C++, C, Java, Groovy, PHP, PostgreSQL, MySQL, MongoDB, Gradle"/>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Henry;I'm+from+China;I'm+a+Backend+Developer;Be+Welcome!+👋)
 
 <a href="https://github.com/henry-hub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -128,5 +135,9 @@ I’m a backend developer, I specialize in building robust backends that do all 
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
 </div>  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
