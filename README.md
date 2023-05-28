@@ -59,7 +59,7 @@ I’m a backend developer, I specialize in building robust backends that do all 
 
 <!--   GitHub stats graph -->
 ## GitHub Activity Graph:
-[![Henry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=henry-hub&theme=github-compact)](https://github.com/henry-hub)
+<!-- [![Henry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=henry-hub&theme=github-compact)](https://github.com/henry-hub) -->
 
 ![](https://github.liheng.website/profile-3d-contrib/profile-green-animate.svg)
 
