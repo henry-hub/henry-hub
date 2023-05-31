@@ -54,7 +54,7 @@ I’m a backend developer, I specialize in building robust backends that do all 
 </td><td valign="top">
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henry-hub" align="center" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=henry-hub&hide_border=true" align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
