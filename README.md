@@ -7,16 +7,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Henry;I'm+from+China;I'm+a+Backend+Developer;Be+Welcome!+👋)
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/henry-hub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitee.com/henry-hub" target="_blank">
 <img src=https://img.shields.io/badge/gitee-C71D23.svg?&style=for-the-badge&logo=gitee&logoColor=white alt=gitee style="margin-bottom: 5px;" />
 </a>
-<!-- <a target="_blank" href="https://weibo.com/ihubpub">
+<a target="_blank" href="https://weibo.com/ihubpub">
 <img src="https://img.shields.io/badge/Weibo-E6162D.svg?style=for-the-badge&logo=Sina+Weibo&logoColor=white" alt="Sina Weibo" style="margin-bottom: 5px;"/>
-</a> -->
+</a>
 <a target="_blank" href="https://leetcode.cn/u/henry-hub">
 <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;"/>
 </a>
@@ -35,8 +35,8 @@
 <a href="https://linkedin.com/in/henryli93" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>
-  
+</div> -->
+
 ### Glad to see you here!  
 I’m a backend developer, I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
 
